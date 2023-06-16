@@ -2,5 +2,4 @@
 
 #For my deployment site using Nelify.com
 
-https://famous-bombolone-09619d.netlify.app
-
+https://delightful-sorbet-eb4f68.netlify.app/

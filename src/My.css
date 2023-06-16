@@ -1,4 +1,6 @@
-
+.page{
+  background-image: linear-gradient(to right top, #2933af, #ab0f8e, #dc2e62, #e66c3e, #d5a337);
+}
 
 .App{
     display: grid;
@@ -7,7 +9,7 @@
     align-items: center;
     color: black;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    padding: 40px;
+    padding: 40%;
     margin: 20px;
     font-size: 24px;
     font-family: 'Brush Script MT', cursive;
